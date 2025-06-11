@@ -60,6 +60,6 @@ Bem-vindo(a) ao meu perfil do GitHub! Aqui você encontrará projetos, estudos e
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=munizbruna&repo=Fun-with-DS-and-Algo&theme=dark" />
 </a>
 -->
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=TheDudeThatCode)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=munizbruna)
 
 ⭐️ Obrigado por visitar meu perfil! Explore os repositórios, veja os projetos e sinta-se à vontade para entrar em contato. Vamos construir conhecimento e soluções juntos!
