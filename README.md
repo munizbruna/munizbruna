@@ -42,7 +42,7 @@ Bem-vindo(a) ao meu perfil do GitHub! Aqui você encontrará projetos, estudos e
 - 💼 LinkedIn: [linkedin.com/in/bmiz](https://linkedin.com/in/bmiz)
 
 ---
-
+<!--
 <a href="https://github.com/munizbruna">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munizbruna&theme=dark&hide_langs_below=1" />
 </a>
@@ -59,6 +59,7 @@ Bem-vindo(a) ao meu perfil do GitHub! Aqui você encontrará projetos, estudos e
 <a href="https://github.com/TheDudeThatCode/Fun-with-DS-and-Algo">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=munizbruna&repo=Fun-with-DS-and-Algo&theme=dark" />
 </a>
-
+-->
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=TheDudeThatCode)
 
 ⭐️ Obrigado por visitar meu perfil! Explore os repositórios, veja os projetos e sinta-se à vontade para entrar em contato. Vamos construir conhecimento e soluções juntos!
